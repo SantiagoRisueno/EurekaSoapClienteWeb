@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="traerMovimiento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="num_cuenta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="traerMovimientoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="traerMovimientoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="regDeposito">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="num_cuenta" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="importe" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="regDepositoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="regDepositoResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="traerMovimientoSoapIn">
+    <wsdl:part name="parameters" element="tns:traerMovimiento" />
+  </wsdl:message>
+  <wsdl:message name="traerMovimientoSoapOut">
+    <wsdl:part name="parameters" element="tns:traerMovimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="regDepositoSoapIn">
+    <wsdl:part name="parameters" element="tns:regDeposito" />
+  </wsdl:message>
+  <wsdl:message name="regDepositoSoapOut">
+    <wsdl:part name="parameters" element="tns:regDepositoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SWeurekabankSoap">
+    <wsdl:operation name="traerMovimiento">
+      <wsdl:input message="tns:traerMovimientoSoapIn" />
+      <wsdl:output message="tns:traerMovimientoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="regDeposito">
+      <wsdl:input message="tns:regDepositoSoapIn" />
+      <wsdl:output message="tns:regDepositoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SWeurekabankSoap" type="tns:SWeurekabankSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="traerMovimiento">
+      <soap:operation soapAction="http://tempuri.org/traerMovimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="regDeposito">
+      <soap:operation soapAction="http://tempuri.org/regDeposito" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SWeurekabankSoap12" type="tns:SWeurekabankSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="traerMovimiento">
+      <soap12:operation soapAction="http://tempuri.org/traerMovimiento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="regDeposito">
+      <soap12:operation soapAction="http://tempuri.org/regDeposito" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SWeurekabank">
+    <wsdl:port name="SWeurekabankSoap" binding="tns:SWeurekabankSoap">
+      <soap:address location="https://localhost:44329/SWeurekabank.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SWeurekabankSoap12" binding="tns:SWeurekabankSoap12">
+      <soap12:address location="https://localhost:44329/SWeurekabank.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

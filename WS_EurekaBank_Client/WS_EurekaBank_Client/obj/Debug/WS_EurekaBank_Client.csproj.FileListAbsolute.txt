@@ -1,0 +1,84 @@
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\csc.exe
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\csc.exe.config
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\csc.rsp
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\csi.exe
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\csi.rsp
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.AppContext.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\vbc.exe
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\vbc.exe.config
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\vbc.rsp
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CopyComplete
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\kevin\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\Dell\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\Xavier\source\repos\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.AssemblyReference.cache
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+E:\ESPE\EurekaBank\SoapDotnet\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.AssemblyReference.cache
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+D:\Distribuidas\DOTNET\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.AssemblyReference.cache
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\santy\Downloads\WS_EUREKABANK_SOAP_DOTNET_G7\EUREKABANK_SOAP\02. CLIENTE\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.AssemblyReference.cache
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\santy\OneDrive\Desktop\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll.config
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.dll
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\bin\WS_EurekaBank_Client.pdb
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.AssemblyReference.cache
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.csproj.CoreCompileInputs.cache
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.dll
+C:\Users\santy\Documents\ArquitecturaSoftware\U1\EUREKABANK_SOAP_DOTNET\02_CLIENTE_WEB\WS_EurekaBank_Client\WS_EurekaBank_Client\obj\Debug\WS_EurekaBank_Client.pdb
